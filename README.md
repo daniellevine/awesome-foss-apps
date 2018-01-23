@@ -70,6 +70,13 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Reddit is a news platform for what's new and popular on the web. It is built in python and integrates with a lot of third party services: rabbitmq, memcached, cassandra, solr, and postgresql to name a few. The code provides a good example of a large pylons project and shines when it comes to the code that integrates with many other services.
 
+### [Sentry](https://github.com/getsentry/sentry)
+
+* python3, react, postgresql, django, redis, etc
+* BSD 3-clause
+
+> Sentry is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
+
 ### [Taiga](https://github.com/taigaio)
 
 * python3, django, coffeescript, angular
